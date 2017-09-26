@@ -1,0 +1,39 @@
+.main
+{ height:320px;
+  width:340px;
+  margin:0 auto;
+  background:#0FF7600 ;
+  margin-top:80px;
+  box-shadow:3px 2px 3px;
+  opacity:0.9;
+  z-index:9998;
+  border-radius:20px;
+}
+input
+{ height:30px;
+  width:200px;
+  background:#ffffff;
+  border-radius:5px;
+  color:black;	
+}
+h2.head
+{ 
+  color:#ff6600;
+}
+p.a
+{ 
+  color:#ff6600;
+}
+
+p.b
+{ 
+  font-size:15pt;
+  color:#ff6600;
+  
+}
+input[type="submit"]
+{ height:29px;
+  width:90px;
+  background:#82CB40;
+	
+}

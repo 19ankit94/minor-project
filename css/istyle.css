@@ -1,0 +1,63 @@
+.lside
+{ 
+  background-color:#ff7600;
+  border-radius:5px;
+  box-shadow:0 10 0 10;
+  border: 5px;
+}
+	
+.middle
+{   background-color: red;
+
+}
+
+.mid
+{   height:315px;
+	width:1000px;
+	margin-left:300px;
+	overflow:scroll;
+}
+
+.head
+{   border-top: 2px solid #cccccc; 
+	margin-top: 0px;
+	margin-bottom:50px;
+}
+
+a.ls
+{ color:white;
+  text-decoration:none;
+}
+
+//for the navigation system
+
+.lnav
+{ list-style-type:none;
+  text-decoration:none;
+}
+
+.lnavi
+{ list-style-type:none;
+  position:absolute;
+  padding:20px;
+  margin-left:90px;
+  display:none;
+}
+
+.lnavi li
+{ clear:both;
+}
+	
+.lnav li
+{  background-color:#ff7600;
+   margin:10px;
+   padding:10px;
+   color:#FFF;
+   border-radius:10px 0px;
+	}	
+.lnav li:hover .lnavi
+{
+   display:block;
+  }
+
+
